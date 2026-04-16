@@ -1,3 +1,4 @@
+
 #BENITO SANTIAGO BALAM ACEVEDO
 
 #03_casting de types
@@ -31,7 +32,7 @@ print(bool(-1)) #numero negativo tambnien son true resultado true
 #evaluacion de cadena como booleanos 
 print(bool("")) #una cadena vacias es false: resultado es false
 print(bool(" ")) #una cadena con es espacio es true resultado true
-print(bool("Fslse")) #una cadena con texto, auque tenga false resultado es true
+print(bool("true")) #una cadena con texto, auque tenga false resultado es true
 
 #redondear un numero decimal
 print(round(2.51)) #reodonde 2.5l al entero mas cercano resultado :3
