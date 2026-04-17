@@ -127,4 +127,6 @@ for p in palabras:
     if p.lower().startswith(letra_usuario):
         contador_palabras += 1
 
-print(f"si hay {contador_palabras} palabras con '{letra_usuario}'")
+print(f"si hay {contador_palabras} palabras con '{letra_usuario}'")# iterrar una lista
+
+
